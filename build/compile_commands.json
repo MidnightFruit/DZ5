@@ -1,0 +1,27 @@
+[
+{
+  "directory": "C:/Users/dimag/Desktop/DZ5/build",
+  "command": "\"C:\\PROGRA~2\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe\"  /nologo -TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\main.dir\\main.cpp.obj /FdTARGET_COMPILE_PDB -c -- C:\\Users\\dimag\\Desktop\\DZ5\\main.cpp",
+  "file": "C:/Users/dimag/Desktop/DZ5/main.cpp"
+},
+{
+  "directory": "C:/Users/dimag/Desktop/DZ5/build",
+  "command": "\"C:\\PROGRA~2\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe\"  /nologo -TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\main.dir\\foo.cpp.obj /FdTARGET_COMPILE_PDB -c -- C:\\Users\\dimag\\Desktop\\DZ5\\foo.cpp",
+  "file": "C:/Users/dimag/Desktop/DZ5/foo.cpp"
+},
+{
+  "directory": "C:/Users/dimag/Desktop/DZ5/build",
+  "command": "\"C:\\PROGRA~2\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe\"  /nologo -TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\main.dir\\foo1.cpp.obj /FdTARGET_COMPILE_PDB -c -- C:\\Users\\dimag\\Desktop\\DZ5\\foo1.cpp",
+  "file": "C:/Users/dimag/Desktop/DZ5/foo1.cpp"
+},
+{
+  "directory": "C:/Users/dimag/Desktop/DZ5/build",
+  "command": "\"C:\\PROGRA~2\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe\"  /nologo -TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\main.dir\\foo2.cpp.obj /FdTARGET_COMPILE_PDB -c -- C:\\Users\\dimag\\Desktop\\DZ5\\foo2.cpp",
+  "file": "C:/Users/dimag/Desktop/DZ5/foo2.cpp"
+},
+{
+  "directory": "C:/Users/dimag/Desktop/DZ5/build",
+  "command": "\"C:\\PROGRA~2\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe\"  /nologo -TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\main.dir\\foo3.cpp.obj /FdTARGET_COMPILE_PDB -c -- C:\\Users\\dimag\\Desktop\\DZ5\\foo3.cpp",
+  "file": "C:/Users/dimag/Desktop/DZ5/foo3.cpp"
+}
+]
