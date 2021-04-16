@@ -1,0 +1,17 @@
+# ninja log v5
+1	94	6402120143993760	CMakeFiles/main.dir/foo.cpp.obj	3e09f23dd784e9a
+1704	2591	6402950724150403	main.exe	23cfd113427df4aa
+1	1989	6402966241533511	CMakeFiles/main.dir/main.cpp.obj	b39c9e340de2d609
+2	835	6402966753215036	build.ninja	52edbd78508bcd36
+1	307	6402938335024993	CMakeFiles/main.dir/foo2.cpp.obj	275194c0021984c2
+1	79	6402834111010784	CMakeFiles/main.dir/foo1.cpp.obj	ea4f5d031d67280f
+0	140	6402965072454966	CMakeFiles/main.dir/foo3.cpp.obj	7cfcc57eb517facc
+1	691	6402966753215036	build.ninja	52edbd78508bcd36
+4	208	6402966756935001	CMakeFiles/main.dir/foo3.cpp.obj	7cfcc57eb517facc
+1	1365	6402966768415015	CMakeFiles/main.dir/main.cpp.obj	b39c9e340de2d609
+1	92	6402967499427950	CMakeFiles/main.dir/foo3.cpp.obj	7cfcc57eb517facc
+1	108	6402968048810860	CMakeFiles/main.dir/foo3.cpp.obj	7cfcc57eb517facc
+8	115	6402971036396440	CMakeFiles/main.dir/foo3.cpp.obj	7cfcc57eb517facc
+1	1609	6402971051027177	CMakeFiles/main.dir/main.cpp.obj	b39c9e340de2d609
+0	1501	6402971463872926	CMakeFiles/main.dir/main.cpp.obj	b39c9e340de2d609
+0	1173	6402972520243601	CMakeFiles/main.dir/main.cpp.obj	b39c9e340de2d609
